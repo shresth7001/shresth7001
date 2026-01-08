@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Publicis Sapient,Bengaluru.**
 
-- 🌱 I’m currently learning **Angular14**,**React**
+- 🌱 I’m currently learning **Angular19**,**React**
 
 - 👯 I’m looking to collaborate on **projects related to web development**
 
